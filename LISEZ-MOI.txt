@@ -1,0 +1,3 @@
+Magasin PDR Holcim Meknès
+
+Ouvrir index.html pour parcourir les vues. Les filtres sélectionnent un niveau, un espace ou un type de vue. Cliquer sur une image pour l’agrandir. Les flèches du clavier passent à la vue suivante ou précédente, Échap ferme la vue. Chaque original est téléchargeable. Les documents sont réunis dans le dossier documents. Les planches par espace sont dans le dossier boards ; la licence de police figure dans identity.
