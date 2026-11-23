@@ -1,5 +1,5 @@
-Magasin de pièces de rechange Holcim Meknès — Visite du projet
+Magasin de pièces de rechange Holcim Meknès
 
-Ouvrir index.html pour suivre la présentation et parcourir les trois niveaux. La galerie complète réunit les perspectives, plans et isométries ; elle peut être filtrée par niveau, espace ou type de vue. Cliquer sur une image pour l’agrandir. Les flèches passent à la vue suivante ou précédente, Échap ferme la vue. Les originaux sont téléchargeables.
+Cette galerie reprend le site de l’Agence Commerciale Holcim Meknès. Ouvrir index.html pour découvrir les espaces et filtrer par niveau, espace ou type de vue. Cliquer sur une image pour l’agrandir ; les flèches naviguent entre les vues et Échap ferme la visionneuse. Les images originales sont téléchargeables.
 
-Le PDF et le PowerPoint reprennent la présentation inspirée de l’Agence commerciale Holcim Meknès. Le carnet technique est également disponible dans la section Documents.
+La présentation PDF, le PowerPoint et le carnet technique sont disponibles en bas de page.

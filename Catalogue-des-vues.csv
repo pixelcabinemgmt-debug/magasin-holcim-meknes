@@ -1,0 +1,69 @@
+﻿Référence;Espace;Niveau;Vue;Fichier original
+B02-01;Réception des marchandises;Rez-de-chaussée;Le comptoir de réception des marchandises;originals/B02-01.png
+B02-03;Réception des marchandises;Rez-de-chaussée;Les rayonnages à proximité du comptoir;originals/B02-03.png
+G04-01;Circulation principale;Rez-de-chaussée;Le couloir bleu du magasin;originals/G04-01.png
+G04-02;Circulation principale;Rez-de-chaussée;De l’allée aux réserves de l’étage;originals/G04-02.png
+G01-01;Pièces de rechange;Rez-de-chaussée;Allée de pièces de rechange;originals/G01-01.png
+G01-04;Pièces de rechange;Rez-de-chaussée;Les repères au droit des rayonnages;originals/G01-04.png
+G01-02;Pièces de rechange;Rez-de-chaussée;Du repérage au comptoir;originals/G01-02.png
+G02-01;Stock spécialisé;Rez-de-chaussée;Familles techniques;originals/G02-01.png
+G02-03;Stock spécialisé;Rez-de-chaussée;Stock spécialisé;originals/G02-03.png
+G03-01;Stockage des moteurs et préparation;Rez-de-chaussée;La zone de stockage des moteurs;originals/G03-01.png
+G03-02;Stockage des moteurs et préparation;Rez-de-chaussée;L’aire de préparation des moteurs;originals/G03-02.png
+G03-03;Stockage des moteurs et préparation;Rez-de-chaussée;Les rangements de la zone de préparation;originals/G03-03.png
+B01-01;Bureau de gestion;Rez-de-chaussée;Gestion au contact du magasin;originals/B01-01.png
+B01-02;Bureau de gestion;Rez-de-chaussée;La gestion et le terrain;originals/B01-02.png
+B03-01;Bureau responsable;Rez-de-chaussée;Le bureau responsable;originals/B03-01.png
+B03-03;Bureau responsable;Rez-de-chaussée;Un échange à proximité;originals/B03-03.png
+STA01-01;Escalier principal du magasin;Rez-de-chaussée / Étage;Le départ depuis le couloir bleu;originals/STA01-01.png
+STA01-02;Escalier principal du magasin;Rez-de-chaussée / Étage;L’entrée ouverte sur le couloir;originals/STA01-02.png
+STA01-03;Escalier principal du magasin;Rez-de-chaussée / Étage;La main courante et sa lumière;originals/STA01-03.png
+STA01-04;Escalier principal du magasin;Rez-de-chaussée / Étage;L’arrivée et le retour au magasin;originals/STA01-04.png
+VIS01-01;Escalier hélicoïdal des visiteurs;Rez-de-chaussée / Étage;L’accès visiteurs;originals/VIS01-01.png
+VIS01-03;Escalier hélicoïdal des visiteurs;Rez-de-chaussée / Étage;Le premier mouvement;originals/VIS01-03.png
+W01-01;Réserve ouest sous dalle;Rez-de-chaussée;Réserve sous dalle;originals/W01-01.png
+S01-01;Local polyvalent;Rez-de-chaussée;Local polyvalent;originals/S01-01.png
+S02-01;Services du personnel;Rez-de-chaussée;Services du personnel;originals/S02-01.png
+S02-02;Services du personnel;Rez-de-chaussée;Distribution des sanitaires;originals/S02-02.png
+S03-01;WC;Rez-de-chaussée;WC;originals/S03-01.png
+S04-01;Local sanitaire;Rez-de-chaussée;Local sanitaire;originals/S04-01.png
+S05-01;Annexe sanitaire;Rez-de-chaussée;Annexe sanitaire;originals/S05-01.png
+P01;Plans & volumes;Rez-de-chaussée;Plan général aménagé;originals/P01.png
+P02;Plans & volumes;Rez-de-chaussée;Plan général monochrome;originals/P02.png
+P03;Plans & volumes;Rez-de-chaussée;Isométrie depuis le sud-est;originals/P03.png
+P04;Plans & volumes;Rez-de-chaussée;Isométrie depuis le nord-ouest;originals/P04.png
+W02-01;Annexe ouest;Rez-de-chaussée;Annexe ouest — plan de repérage;originals/W02-01.png
+U01-01;Réserve sud-ouest;Étage;Réserve sud-ouest;originals/U01-01.png
+U01-02;Réserve sud-ouest;Étage;La desserte des travées;originals/U01-02.png
+U02-01;Réserve centrale ouest;Étage;Réserve centrale ouest;originals/U02-01.png
+U02-03;Réserve centrale ouest;Étage;Un rangement par famille;originals/U02-03.png
+U03-01;Réserve nord;Étage;Réserve nord;originals/U03-01.png
+U03-02;Réserve nord;Étage;La réserve et son balcon;originals/U03-02.png
+U04-01;Réserve est;Étage;Réserve est;originals/U04-01.png
+U04-02;Réserve est;Étage;Le retour vers le palier;originals/U04-02.png
+U05-02;Palier des réserves;Étage;Le palier des réserves;originals/U05-02.png
+U05-04;Palier des réserves;Étage;Le sas et les réserves;originals/U05-04.png
+U06-01;Sas de liaison des réserves;Étage;Le sas de liaison;originals/U06-01.png
+UB02-03;Hall des visiteurs;Étage;Le hall des visiteurs;originals/UB02-03.png
+UB01-01;Réunion et travail;Étage;Réunion et accueil des stagiaires;originals/UB01-01.png
+UB01-02;Réunion et travail;Étage;Le travail et l’échange;originals/UB01-02.png
+UB03-01;Archives et consultation;Étage;Archives et consultation;originals/UB03-01.png
+UB03-03;Archives et consultation;Étage;Le rangement documentaire;originals/UB03-03.png
+UP01;Plans & volumes;Étage;Plan étage aménagé;originals/UP01.png
+UP02;Plans & volumes;Étage;Plan étage monochrome;originals/UP02.png
+UP03;Plans & volumes;Étage;Étage pleine hauteur depuis sud-est;originals/UP03.png
+UP04;Plans & volumes;Étage;Étage pleine hauteur depuis nord-ouest;originals/UP04.png
+VIS01-04;Hall, réunion et archives;Étage;Plan de repérage pleine hauteur;originals/VIS01-04.png
+VIS01-05;Hall, réunion et archives;Étage;Isométrie pleine hauteur;originals/VIS01-05.png
+UB02-04;Hall, réunion et archives;Étage;Plan de repérage pleine hauteur;originals/UB02-04.png
+UB02-05;Hall, réunion et archives;Étage;Isométrie pleine hauteur;originals/UB02-05.png
+UB01-04;Hall, réunion et archives;Étage;Plan de repérage pleine hauteur;originals/UB01-04.png
+UB01-05;Hall, réunion et archives;Étage;Isométrie pleine hauteur;originals/UB01-05.png
+UB03-04;Hall, réunion et archives;Étage;Plan de repérage pleine hauteur;originals/UB03-04.png
+UB03-05;Hall, réunion et archives;Étage;Isométrie pleine hauteur;originals/UB03-05.png
+M01-01;Local en mezzanine;Mezzanine existante;Le local en mezzanine;originals/M01-01.png
+M01-03;Local en mezzanine;Mezzanine existante;Un accès indépendant;originals/M01-03.png
+MP01;Plans & volumes;Mezzanine existante;Plan de la mezzanine existante;originals/MP01.png
+MP02;Plans & volumes;Mezzanine existante;Plan monochrome de la mezzanine;originals/MP02.png
+MP03;Plans & volumes;Mezzanine existante;Mezzanine pleine hauteur depuis le sud-est;originals/MP03.png
+MP04;Plans & volumes;Mezzanine existante;Mezzanine pleine hauteur depuis le nord-ouest;originals/MP04.png
