@@ -1,10 +1,69 @@
-<!doctype html><html lang="fr"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>Magasin PDR Holcim Meknès</title><link rel="stylesheet" href="style.css"></head><body>
-<header><a class="brand" href="#"><img src="identity/holcim.png" alt="Holcim"></a><span>MAGASIN PDR · MEKNÈS</span><a href="#collection">Explorer le projet <span aria-hidden="true">↓</span></a></header>
-<main><section class="hero"><div class="hero-copy"><p class="eyebrow">PROJET D’AMÉNAGEMENT</p><h1>Un magasin<br>au service<br>des équipes.</h1><p class="intro">Visualisations de l’aménagement proposé, du rangement des pièces aux espaces de travail. Les plans et cotes techniques proviennent du modèle natif.</p><p id="review-note" class="review" hidden>Document de revue. Les images présentées sont des études de cadrage avant validation du modèle final.</p><a class="text-link" href="#collection">Découvrir les espaces <span aria-hidden="true">↗</span></a></div><button id="hero-open" class="hero-image" aria-label="Ouvrir la vue principale"><img id="hero-image" alt=""><span id="hero-caption"></span></button></section>
-<section class="collection" id="collection"><div class="section-heading"><div><p class="eyebrow">LE PROJET EN IMAGES</p><h2>Espaces et parcours</h2></div><p id="count" aria-live="polite"></p></div>
-<div class="filters"><label>Niveau<select id="floor"><option value="">Tous les niveaux</option></select></label><label>Espace<select id="room"><option value="">Tous les espaces</option></select></label><label>Type de vue<select id="kind"><option value="">Toutes les vues</option><option value="interior">Ambiances</option><option value="plan">Plans et isométries</option></select></label><label class="search">Rechercher<input id="search" type="search" placeholder="Un espace, une fonction…"></label><button id="reset">Réinitialiser</button></div>
-<div id="grid" class="grid"></div><p id="empty" class="empty" hidden>Aucune vue ne correspond à cette recherche.</p></section>
-<section class="downloads"><p class="eyebrow">DOCUMENTS DU PROJET</p><h2>Pour poursuivre la visite</h2><div id="document-links"></div><p>Les images originales sont accessibles depuis chaque vue.</p></section></main>
-<footer><img src="identity/holcim.png" alt="Holcim"><p>Magasin de pièces de rechange<br>Meknès, Maroc</p><a href="#">Retour en haut ↑</a></footer>
-<dialog id="viewer" aria-label="Vue du projet"><div class="viewer-head"><span id="viewer-counter"></span><button id="close" aria-label="Fermer la vue">Fermer ×</button></div><div class="viewer-stage"><button id="previous" aria-label="Vue précédente">←</button><img id="viewer-image" alt=""><button id="next" aria-label="Vue suivante">→</button></div><div class="viewer-foot"><div><h2 id="viewer-title"></h2><p id="viewer-caption"></p></div><a id="download-original" download>Télécharger l’original ↓</a></div></dialog>
-<script src="catalogue.js?v=3"></script><script src="gallery.js"></script></body></html>
+<!doctype html>
+<html lang="fr" id="haut">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="robots" content="noindex, nofollow">
+<meta name="description" content="Le projet d’aménagement du magasin de pièces de rechange Holcim Meknès. Visite, plans, isométries et présentation.">
+<meta name="gallery-revision" content="style-agence-20261123">
+<title>Magasin de pièces de rechange | Holcim Meknès</title>
+<link rel="stylesheet" href="style.css?v=agence-1">
+<script defer src="catalogue.js?v=agence-1"></script>
+<script defer src="gallery.js?v=agence-1"></script>
+</head>
+<body>
+<a href="#contenu" class="skip">Aller au contenu</a>
+<header class="header dark"><div class="shell nav">
+  <a class="brand" href="#haut" aria-label="Holcim Meknès, début de la visite"><img src="identity/holcim-dark.png" alt="Holcim"></a>
+  <span class="eyebrow nav-name">Architecture intérieure / Meknès</span>
+  <nav aria-label="Navigation principale"><a href="#niveaux">Les niveaux</a><a href="#collection">Toutes les vues</a><a href="documents/Magasin-Holcim-Meknes-Presentation-Style-Agence.pdf" target="_blank" rel="noopener" class="nav-pdf">Présentation PDF <span aria-hidden="true">↗</span></a></nav>
+</div></header>
+<main id="contenu">
+<section class="dark cover"><div class="shell cover-layout">
+  <div class="cover-copy"><p class="eyebrow">Un magasin pour</p><h1>réceptionner.<br>repérer.<br>distribuer.</h1><span class="lime-rule" aria-hidden="true"></span><p class="project-name">Magasin de pièces de rechange<br>Holcim Meknès</p><a href="#parti" class="underlink">Découvrir le projet <span aria-hidden="true">↓</span></a></div>
+  <figure><button type="button" class="image-action cover-image" data-view="G04-01" aria-label="Agrandir la vue du couloir bleu"><img src="large/G04-01.webp?v=2" alt="Couloir bleu du magasin, entre les rayonnages jaunes et la réception vitrée" width="1536" height="1024" fetchpriority="high"><span class="enlarge" aria-hidden="true">↗</span></button><figcaption><span>Le couloir bleu du magasin</span><span>G04-01</span></figcaption></figure>
+</div></section>
+<section class="blue band" id="parti"><div class="shell">
+  <p class="eyebrow">Le parcours des pièces</p>
+  <div class="intro-layout"><h2>Un magasin qui se lit<br>dès l’entrée.</h2><p>Le couloir bleu donne la direction. Les rayonnages jaunes indiquent le stock. Le comptoir marque l’entrée des marchandises.</p></div>
+  <div class="principles">
+    <article><p class="eyebrow">01</p><h3>Réceptionner</h3><p>Le comptoir et les rangements proches forment le premier point de réception des marchandises.</p></article>
+    <article><p class="eyebrow">02</p><h3>Repérer</h3><p>Les allées donnent accès aux différentes familles de pièces, jusqu’aux réserves de l’étage.</p></article>
+    <article><p class="eyebrow">03</p><h3>Distribuer</h3><p>Le stockage des moteurs et la préparation occupent une aire de travail dédiée.</p></article>
+  </div>
+</div></section>
+<section class="paper band" aria-labelledby="palette-title"><div class="shell">
+  <p class="eyebrow">La palette / Matières et repères</p>
+  <div class="intro-layout"><h2 id="palette-title">Le bleu guide le parcours.<br>Le jaune signale les rayonnages.</h2><p>Au magasin, les couleurs et les matières distinguent les circulations des zones de travail.</p></div>
+  <div class="swatches">
+    <figure><img src="editorial/palette-0.webp" loading="lazy" decoding="async" alt="Détail du sol bleu du couloir" width="425" height="560"><figcaption><strong>01 · Sol bleu</strong><span>Le fil conducteur des circulations.</span></figcaption></figure>
+    <figure><img src="editorial/palette-1.webp" loading="lazy" decoding="async" alt="Détail des rayonnages jaunes" width="425" height="560"><figcaption><strong>02 · Rayonnage jaune</strong><span>Un repère visible dans les allées.</span></figcaption></figure>
+    <figure><img src="editorial/palette-2.webp" loading="lazy" decoding="async" alt="Détail du garde-corps en acier" width="425" height="560"><figcaption><strong>03 · Acier</strong><span>La structure et les garde-corps.</span></figcaption></figure>
+    <figure><img src="editorial/palette-3.webp" loading="lazy" decoding="async" alt="Détail du vitrage entre le bureau et le magasin" width="425" height="560"><figcaption><strong>04 · Vitrage</strong><span>Un lien visuel avec le magasin.</span></figcaption></figure>
+  </div>
+</div></section>
+<div class="chapter-nav" id="niveaux"><nav class="shell" aria-label="Niveaux du projet">
+  <a href="#rez-de-chaussee"><span>01</span> Rez-de-chaussée</a><a href="#etage"><span>02</span> Étage</a><a href="#mezzanine"><span>03</span> Mezzanine</a>
+</nav></div>
+<div id="chapters"></div>
+<section class="paper band collection" id="collection" aria-labelledby="collection-title"><div class="shell">
+  <p class="eyebrow">La galerie complète</p><div class="collection-head"><h2 id="collection-title">Tous les espaces.</h2><p id="count" role="status"></p></div>
+  <div class="filters">
+    <label>Niveau<select id="floor"><option value="">Tous les niveaux</option></select></label>
+    <label>Espace<select id="room"><option value="">Tous les espaces</option></select></label>
+    <label>Type de vue<select id="kind"><option value="">Toutes les vues</option><option value="interior">Perspectives</option><option value="plan">Plans et isométries</option></select></label>
+    <label>Rechercher<input id="search" type="search" placeholder="Ex. moteurs, archives…"></label>
+    <button id="reset" type="button">Réinitialiser</button>
+  </div>
+  <div id="grid" class="grid"></div><p id="empty" class="empty" hidden>Aucune vue ne correspond à ces filtres.</p>
+  <noscript><p>La visite interactive nécessite JavaScript. <a href="documents/Magasin-Holcim-Meknes-Presentation-Style-Agence.pdf">Voir la présentation PDF.</a></p></noscript>
+</div></section>
+<section class="blue band closing" id="documents"><div class="shell">
+  <figure><button type="button" class="image-action" data-view="G04-02" aria-label="Agrandir la vue de l’escalier du magasin"><img src="large/G04-02.webp" alt="L’escalier principal depuis l’allée bleue du magasin" width="1536" height="1024" loading="lazy" decoding="async"><span class="enlarge" aria-hidden="true">↗</span></button><figcaption><span>De l’allée aux réserves de l’étage</span><span>G04-02</span></figcaption></figure>
+  <div><p class="eyebrow">Meknès / Documents du projet</p><h2>La bonne pièce,<br>au bon endroit.</h2><span class="lime-rule" aria-hidden="true"></span><div id="document-links" class="document-links"></div></div>
+</div></section>
+</main>
+<footer class="dark"><div class="shell"><img src="identity/holcim-dark.png" alt="Holcim"><p>Magasin de pièces de rechange<br>Meknès, Maroc</p><span class="eyebrow">Pixelcabine</span><a href="#haut">Retour en haut ↑</a></div></footer>
+<dialog id="viewer" aria-labelledby="viewer-title"><div class="viewer-head"><span id="viewer-counter"></span><button type="button" id="close" autofocus>Fermer <span aria-hidden="true">×</span></button></div><div class="viewer-stage"><button type="button" id="previous" aria-label="Vue précédente">←</button><img id="viewer-image" alt=""><button type="button" id="next" aria-label="Vue suivante">→</button></div><div class="viewer-foot"><div><h2 id="viewer-title"></h2><p id="viewer-caption"></p></div><a id="download-original" download>Image originale <span aria-hidden="true">↓</span></a></div></dialog>
+</body>
+</html>
