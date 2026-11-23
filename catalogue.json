@@ -274,9 +274,9 @@
       "caption": "",
       "alt": "L’accueil et la remise des pièces",
       "review_only": false,
-      "preview": "previews/B02-01.webp",
-      "large": "large/B02-01.webp",
-      "original": "originals/B02-01.png",
+      "preview": "previews/B02-01.webp?v=3",
+      "large": "large/B02-01.webp?v=3",
+      "original": "originals/B02-01.png?v=3",
       "extension": ".png",
       "width": 1536,
       "height": 1024
@@ -291,9 +291,9 @@
       "caption": "",
       "alt": "Préparation et contrôle",
       "review_only": false,
-      "preview": "previews/G03-01.webp",
-      "large": "large/G03-01.webp",
-      "original": "originals/G03-01.png",
+      "preview": "previews/G03-01.webp?v=3",
+      "large": "large/G03-01.webp?v=3",
+      "original": "originals/G03-01.png?v=3",
       "extension": ".png",
       "width": 1536,
       "height": 1024
@@ -376,9 +376,9 @@
       "caption": "",
       "alt": "La zone avant distribution",
       "review_only": false,
-      "preview": "previews/G03-02.webp",
-      "large": "large/G03-02.webp",
-      "original": "originals/G03-02.png",
+      "preview": "previews/G03-02.webp?v=3",
+      "large": "large/G03-02.webp?v=3",
+      "original": "originals/G03-02.png?v=3",
       "extension": ".png",
       "width": 1536,
       "height": 1024
@@ -750,9 +750,9 @@
       "caption": "",
       "alt": "Le comptoir et les rayonnages",
       "review_only": false,
-      "preview": "previews/B02-03.webp",
-      "large": "large/B02-03.webp",
-      "original": "originals/B02-03.png",
+      "preview": "previews/B02-03.webp?v=3",
+      "large": "large/B02-03.webp?v=3",
+      "original": "originals/B02-03.png?v=3",
       "extension": ".png",
       "width": 1536,
       "height": 1024
@@ -1410,7 +1410,7 @@
       "label": "Carnet technique PDF"
     },
     {
-      "file": "https://github.com/pixelcabinemgmt-debug/magasin-holcim-meknes/releases/download/v5-correction/Magasin-Holcim-Meknes-Presentation-V5.pdf",
+      "file": "https://github.com/pixelcabinemgmt-debug/magasin-holcim-meknes/releases/download/v5-reception/Magasin-Holcim-Meknes-Presentation-V5.pdf",
       "label": "Présentation PDF"
     },
     {
