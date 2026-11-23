@@ -257,9 +257,9 @@
       "caption": "",
       "alt": "La circulation du magasin",
       "review_only": false,
-      "preview": "previews/G04-01.webp",
-      "large": "large/G04-01.webp",
-      "original": "originals/G04-01.png",
+      "preview": "previews/G04-01.webp?v=2",
+      "large": "large/G04-01.webp?v=2",
+      "original": "originals/G04-01.png?v=2",
       "extension": ".png",
       "width": 1536,
       "height": 1024
@@ -1410,7 +1410,7 @@
       "label": "Carnet technique PDF"
     },
     {
-      "file": "documents/Magasin-Holcim-Meknes-Presentation-V5.pdf",
+      "file": "https://github.com/pixelcabinemgmt-debug/magasin-holcim-meknes/releases/download/v5-correction/Magasin-Holcim-Meknes-Presentation-V5.pdf",
       "label": "Présentation PDF"
     },
     {
